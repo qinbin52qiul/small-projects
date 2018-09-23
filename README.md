@@ -4,32 +4,23 @@
 
 ## 极简博客
 
-**项目地址**
-
-「[my-blog](1)」
+**项目地址** 「[my-blog](https://github.com/qinbin52qiul/small-projects/tree/master/my-blog)」
 
 **演示地址**
 
-- [首页](2)
+[^_^]: 
+  不行了
 
-- [文章内容](3)
+- [首页](https://qinbin.top/small-projects/my-blog/index)
+
+- [文章内容](https://qinbin.top/small-projects/my-blog/article)
 
 **效果图**
 
-![my-blog](4)
-
-[^_^]: 
-  行内式==>引用式
-
-[1]: https://github.com/qinbin52qiul/small-projects/tree/master/my-blog
-[2]: https://qinbin.top/small-projects/my-blog/index
-[3]: https://qinbin.top/small-projects/my-blog/article
-[4]: https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/my-blog.gif
+![my-blog](https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/my-blog.gif)
 
 ## 松鼠GO
-**项目地址**
-
-「[squirrel-shop](https://github.com/qinbin52qiul/small-projects/tree/master/squirrel-shop)」
+**项目地址** 「[squirrel-shop](https://github.com/qinbin52qiul/small-projects/tree/master/squirrel-shop)」
 
 **演示地址**
 
@@ -41,7 +32,7 @@
 
 ## 花椒头条
 
-**项目地址**「[pepper-headline](https://github.com/qinbin52qiul/small-projects/tree/master/pepper-headline)」
+**项目地址** 「[pepper-headline](https://github.com/qinbin52qiul/small-projects/tree/master/pepper-headline)」
 
 **演示地址**
 
