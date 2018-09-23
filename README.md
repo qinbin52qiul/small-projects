@@ -6,25 +6,25 @@
 
 **项目地址**
 
-「[my-blog](my-blog-url)」
+「[my-blog](1)」
 
 **演示地址**
 
-- [首页](my-blog-index)
+- [首页](2)
 
-- [文章内容](my-blog-article)
+- [文章内容](3)
 
 **效果图**
 
-![my-blog](my-blog-gif)
+![my-blog](4)
 
 [^_^]: 
   行内式==>引用式
 
-[my-blog-url]: https://github.com/qinbin52qiul/small-projects/tree/master/my-blog
-[my-blog-index]: https://qinbin.top/small-projects/my-blog/index
-[my-blog-article]: https://qinbin.top/small-projects/my-blog/article
-[my-blog-gif]: https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/my-blog.gif
+[1]: https://github.com/qinbin52qiul/small-projects/tree/master/my-blog
+[2]: https://qinbin.top/small-projects/my-blog/index
+[3]: https://qinbin.top/small-projects/my-blog/article
+[4]: https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/my-blog.gif
 
 ## 松鼠GO
 **项目地址**
