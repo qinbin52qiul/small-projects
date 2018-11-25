@@ -1,6 +1,6 @@
 # small-projects
 
-重温一下页面的开发，主要是一些前端页面的实现，涉及技术有 html / css / html5 / css3 / bootstrap
+重温一下页面的开发，主要是一些前端页面的实现，涉及技术有 html / css / html5 / css3 / bootstrap / jQuery
 
 ## 极简博客
 
