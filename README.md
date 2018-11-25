@@ -8,7 +8,7 @@
 
 **演示地址**
 
-[^_^]: 
+[^_^]:
   不行了
 
 - [首页](https://qinbin.top/small-projects/my-blog/index)
@@ -46,3 +46,14 @@
 
 ![pepper-headline](https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/pepper-headline.gif)
 
+## jQuery 表单验证
+
+**项目地址** 「[form-jquery](https://github.com/qinbin52qiul/small-projects/tree/master/form-jquery)」
+
+**演示地址**
+
+- [来来来...](https://qinbin.top/small-projects/form-jquery/index)
+
+**效果图**
+
+![form-jquery](https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/form-jquery.gif)
