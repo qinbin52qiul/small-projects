@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://cdn.bootcss.com/normalize/8.0.0/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+  <div class="wrap wrap-sm">
+    <div class="header">
+      <h1>来来来...</h1>
+    </div>
+    <div class="form">
+      <form id="signup" action="">
+        <div class="input-wrap">
+          <label>姓名</label>
+          <input data-rule='minlength:2|maxlength:8' name="name" type="text" class="input-control">
+          <div id="name-input-error" class="input-error">姓名格式有误</div>
+        </div>
+        <div class="input-wrap">
+          <label>用户名</label>
+          <input data-rule='pattern:"^[a-z0-9]*$"|minlength:4|maxlength:18' name="username" type="text" class="input-control">
+          <div id="username-input-error" class="input-error">用户名格式有误</div>
+        </div>
+        <div class="input-wrap">
+          <label>年龄</label>
+          <input data-rule='min:18' name="age" type="text" class="input-control">
+          <div id="age-input-error" class="input-error">年龄格式有误</div>
+        </div>
+        <div class="input-wrap">
+          <label>密码</label>
+          <input data-rule='minlength:6|maxlength:18' name="password" type="password" class="input-control">
+          <div id="password-input-error" class="input-error">密码格式有误</div>
+        </div>
+        <div class="input-wrap">
+          <label>自我介绍</label>
+          <input data-rule='required:false|maxlength:1024' name="intro" type="text" class="input-control">
+          <div id="intro-input-error" class="input-error">自我介绍格式有误</div>
+        </div>
+        <button class="button-control" type="submit">注册</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="../lib/jquery-3.3.1.js"></script>
+  <script src="js/validator.js"></script>
+  <script src="js/input.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
