@@ -4,7 +4,7 @@
 
 ## 极简博客
 
-**项目地址** 「[my-blog](https://github.com/qinbin52qiul/small-projects/tree/master/my-blog)」
+**项目地址** 「[my-blog](https://github.com/PininQ/small-projects/tree/master/my-blog)」
 
 **演示地址**
 
@@ -17,10 +17,10 @@
 
 **效果图**
 
-![my-blog](https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/my-blog.gif)
+![my-blog](https://raw.githubusercontent.com/PininQ/MarkdownPhotos/master/small-projects/my-blog.gif)
 
 ## 松鼠GO
-**项目地址** 「[squirrel-shop](https://github.com/qinbin52qiul/small-projects/tree/master/squirrel-shop)」
+**项目地址** 「[squirrel-shop](https://github.com/PininQ/small-projects/tree/master/squirrel-shop)」
 
 **演示地址**
 
@@ -28,11 +28,11 @@
 
 **效果图**
 
-![squirrel-shop](https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/squirrel-shop.gif)
+![squirrel-shop](https://raw.githubusercontent.com/PininQ/MarkdownPhotos/master/small-projects/squirrel-shop.gif)
 
 ## 花椒头条
 
-**项目地址** 「[pepper-headline](https://github.com/qinbin52qiul/small-projects/tree/master/pepper-headline)」
+**项目地址** 「[pepper-headline](https://github.com/PininQ/small-projects/tree/master/pepper-headline)」
 
 **演示地址**
 
@@ -44,11 +44,11 @@
 
 **效果图**
 
-![pepper-headline](https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/pepper-headline.gif)
+![pepper-headline](https://raw.githubusercontent.com/PininQ/MarkdownPhotos/master/small-projects/pepper-headline.gif)
 
 ## jQuery 表单验证
 
-**项目地址** 「[form-jquery](https://github.com/qinbin52qiul/small-projects/tree/master/form-jquery)」
+**项目地址** 「[form-jquery](https://github.com/PininQ/small-projects/tree/master/form-jquery)」
 
 **演示地址**
 
@@ -56,4 +56,4 @@
 
 **效果图**
 
-![form-jquery](https://raw.githubusercontent.com/qinbin52qiul/MarkdownPhotos/master/small-projects/form-jquery.gif)
+![form-jquery](https://raw.githubusercontent.com/PininQ/MarkdownPhotos/master/small-projects/form-jquery.gif)
