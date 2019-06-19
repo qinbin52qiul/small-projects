@@ -11,9 +11,9 @@
 [^_^]:
   不行了
 
-- [首页](https://qinbin.top/small-projects/my-blog/index)
+- [首页](https://pininq.github.io/small-projects/my-blog/index)
 
-- [文章内容](https://qinbin.top/small-projects/my-blog/article)
+- [文章内容](https://pininq.github.io/small-projects/my-blog/article)
 
 **效果图**
 
@@ -24,7 +24,7 @@
 
 **演示地址**
 
-- [首页布局](https://qinbin.top/small-projects/squirrel-shop/index)
+- [首页布局](https://pininq.github.io/small-projects/squirrel-shop/index)
 
 **效果图**
 
@@ -36,11 +36,11 @@
 
 **演示地址**
 
-- [首页](https://qinbin.top/small-projects/pepper-headline/index)
-- [新闻内容](https://qinbin.top/small-projects/pepper-headline/news)
-- [登录](https://qinbin.top/small-projects/pepper-headline/login)
-- [注册](https://qinbin.top/small-projects/pepper-headline/register)
-- [忘记密码](https://qinbin.top/small-projects/pepper-headline/forget)
+- [首页](https://pininq.github.io/small-projects/pepper-headline/index)
+- [新闻内容](https://pininq.github.io/small-projects/pepper-headline/news)
+- [登录](https://pininq.github.io/small-projects/pepper-headline/login)
+- [注册](https://pininq.github.io/small-projects/pepper-headline/register)
+- [忘记密码](https://pininq.github.io/small-projects/pepper-headline/forget)
 
 **效果图**
 
@@ -52,7 +52,7 @@
 
 **演示地址**
 
-- [来来来...](https://qinbin.top/small-projects/form-jquery/index)
+- [来来来...](https://pininq.github.io/small-projects/form-jquery/index)
 
 **效果图**
 
